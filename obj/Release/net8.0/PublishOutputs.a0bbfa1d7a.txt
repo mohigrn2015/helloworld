@@ -1,0 +1,7 @@
+E:\Mohiuddin\Biometric_Solution\2025\CI_CD\Projects\dotnet-core-with-ci-cd\obj\Release\net8.0\PubTmp\Out\docker_with_ci_cd.exe
+E:\Mohiuddin\Biometric_Solution\2025\CI_CD\Projects\dotnet-core-with-ci-cd\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\Mohiuddin\Biometric_Solution\2025\CI_CD\Projects\dotnet-core-with-ci-cd\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\Mohiuddin\Biometric_Solution\2025\CI_CD\Projects\dotnet-core-with-ci-cd\obj\Release\net8.0\PubTmp\Out\docker_with_ci_cd.dll
+E:\Mohiuddin\Biometric_Solution\2025\CI_CD\Projects\dotnet-core-with-ci-cd\obj\Release\net8.0\PubTmp\Out\docker_with_ci_cd.deps.json
+E:\Mohiuddin\Biometric_Solution\2025\CI_CD\Projects\dotnet-core-with-ci-cd\obj\Release\net8.0\PubTmp\Out\docker_with_ci_cd.runtimeconfig.json
+E:\Mohiuddin\Biometric_Solution\2025\CI_CD\Projects\dotnet-core-with-ci-cd\obj\Release\net8.0\PubTmp\Out\docker_with_ci_cd.pdb
